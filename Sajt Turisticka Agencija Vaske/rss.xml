@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Vaske Turisticka Agencija</title>
+		<link>index.hmtl</link>
+		<description>Upoznaj</description>
+		<item>
+			<title>Ponude</title>
+			<link>rezervacija.html</link>
+			<description>Izaberite vasu destinaciju iz snova i rezervisite mesto.</description>
+		</item>
+		<item>
+			<title>Galerija</title>
+			<link>galerija.html</link>
+			<description>Pogledaj slike i iskustva ljudi</description>
+		</item>
+	</channel>
+</rss>
